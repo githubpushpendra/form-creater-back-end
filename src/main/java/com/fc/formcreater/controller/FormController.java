@@ -23,6 +23,11 @@ public class FormController {
         this.formService = formService;
     }
 
+    @GetMapping("/test")
+    public String testAPI(){
+        return "welcome to form-builder application";
+    }
+
     @GetMapping("/")
     public List<Form> getAllForms() {
         return formService.getAllForms();
