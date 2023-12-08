@@ -41,6 +41,46 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+        <dependency>
+            <groupId>in.yajnesh.util</groupId>
+            <artifactId>java-util</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+		<dependency>
+			<groupId>in.yajnesh.util</groupId>
+			<artifactId>java-util</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>in.yajnesh.util</groupId>
+			<artifactId>java-util</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>in.yajnesh.util</groupId>
+			<artifactId>java-util</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>in.yajnesh.util</groupId>
+			<artifactId>java-util</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>in.yajnesh.util</groupId>
+			<artifactId>java-util</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>in.yajnesh.util</groupId>
+			<artifactId>java-util</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>in.yajnesh.util</groupId>
+			<artifactId>java-util</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
